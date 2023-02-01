@@ -2,7 +2,7 @@
 A runtime performance comparison of various versions of matrix-matrix multiplication implementations:
 
 - Naive CPU version
-- CPU version optimized with cache blocking and OpenMP's loop parallelization
+- Optimized CPU version  with cache blocking and OpenMP's loop parallelization
 - Naive CUDA kernel
 - Tiled CUDA kernel utilizing shared memory
 
